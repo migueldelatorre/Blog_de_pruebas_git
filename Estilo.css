@@ -7,8 +7,10 @@ body {color: rgb(75, 12, 87);
     padding: 0;
 }
 
-.cabecera{
+#cabecera{
     color: red;
+    font-size: 25px;
+    text-align: center;
 }
 
 #container
