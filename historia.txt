@@ -3,13 +3,11 @@ Esta es la historia de Mike
 Mike tiene 38 años y un dia nací en castellon asi por que si.
 
 Master 1
-<<<<<<< HEAD
+
 Master 2
-
-
 
 
 Experimento 2
 
 Experimento 1
->>>>>>> 091911f (Exper 1)
+
